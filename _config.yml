@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rui Zhao | 赵瑞"
+title                    : "Jian Zhang | 张建"
 title_separator          : "-"
-name                     : &name "Rui Zhao"
-description              : &description "PhD student at Siemens AG & LMU Munich"
-url                      : https://ruizhaogit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jian Zhang"
+description              : &description " Researcher of Algorithmic game theory & blockchain"
+url                      : https://leozhang404.github.io/home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ruizhaogit.github.io"
+repository               : "home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rui Zhao"
+  name             : "Jian Zhang"
   avatar           : "profile.png"
-  bio              : "PhD Student | Machine Learning, Reinforcement Learning, and Robotics"
-  location         : "Munich, Germany"
+  bio              : "Researcher | Algorithmic game theory, Mechanism design, Blockchain"
+  location         : "Shanghai, China"
   employer         :
-  googlescholar    : "https://scholar.google.de/citations?user=N1yNDnQAAAAJ&hl=en"
-  email            : "zhaorui.in.germany@gmail.com"
+  googlescholar    : ""
+  email            : "zhuiyi0403@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,12 +93,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ruizhaogit"
+  github           : "Leozhang404"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rui-zhao-profile"
+  linkedin         : "jian zhang"
   orcid            : 
   pinterest        :
   soundcloud       :
