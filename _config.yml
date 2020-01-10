@@ -239,6 +239,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+     
+  # _Researches
+  - scope:
+      path: ""
+      type: researches
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
