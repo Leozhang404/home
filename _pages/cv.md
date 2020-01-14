@@ -29,8 +29,16 @@ Work experience
 *Technical Department*
   * Java senior engineer, 4, 2015--11, 2015
     - Software development, mainly develop financial computing and OA system 
-
-  
+    
+Awards and Honors
+======
+* Third prize of "topaz futures cup" national college students statistical modeling competition, 11,2018
+* Third prizes in the national mathematical modeling contest for postgraduates, 9, 2017
+* Second prize in the national mathematical modeling contest for postgraduates, 9, 2016
+* Outstanding graduate of Shanghai, 7, 2015
+* First prize national computer competition for college students, 10, 2014
+* Second prize in Shanghai computer application technology competition, 11, 2014
+* Shanghai award of national college students mathematical modeling, 2013, 2014, 2015
 <!-- Skills
 ======
 * Skill 1
