@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * **X-Order & X-Order Lab**, Shanghai, China  
-  * researcher, 04. 2018--present
+  * Researcher, 04. 2018--present
     - Complex Economics & Complex System
     - Algorithmic game theory
     - Blockchain and Mechanism Design
