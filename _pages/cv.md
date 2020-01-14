@@ -39,6 +39,7 @@ Awards and Honors
 * First prize national computer competition for college students, 10, 2014
 * Second prize in Shanghai computer application technology competition, 11, 2014
 * Shanghai award of national college students mathematical modeling, 2013, 2014, 2015
+
 <!-- Skills
 ======
 * Skill 1
